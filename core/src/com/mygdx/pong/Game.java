@@ -7,7 +7,7 @@ import com.badlogic.gdx.utils.ScreenUtils;
 
 public class Game extends ApplicationAdapter {
 	SpriteBatch batch;
-	Texture img;
+	Texture img
 	
 	@Override
 	public void create () {
